@@ -1,9 +1,14 @@
 # Pepper robot tracks people and interact with them.
 This project has the following contributions:
+
 1- Human tracking using Pepper robot.
-2- Procedure of turning on the awareness, in Pepper robot, of its physical surroundings.
+
+2- Procedure of turning on the awareness in Pepper robot of its physical surroundings.
+
 3- Reading and storing images from 3D sensor and VGA forehead camera of the Pepper robot.
+
 4- Pepper Interact with people with four set of actions
+	
 	1- Doing nothing (also called waiting in social terms)
 	2- Looking towards human through tracking human with head motion.
 	3- Waving hand and saying hello 
