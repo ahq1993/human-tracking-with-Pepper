@@ -10,6 +10,7 @@ This project has the following contributions:
 	4- Handshaking: The robot also grabs the hand of the person if the FSR touch sensor on the robot's hand detects the touch.
 
 Requirements:
+
 	1- Pepper Robot (https://www.ald.softbankrobotics.com/en/cool-robots/pepper)
 	
 	2- [Optional] Mbed microcontroller (https://developer.mbed.org/platforms/mbed-LPC1768/)
@@ -17,6 +18,7 @@ Requirements:
 	3- [Optional] FSR Touch sensor (https://www.sparkfun.com/products/9376)
 
 Procedure:
+
 	1- Bring FSR into action through integration with mbed or any microcontroller (please burn the code 'uC.cpp' on mbed).
 	
 	2- Paste FSR on Pepper's right hand.
