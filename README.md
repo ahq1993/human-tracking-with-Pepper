@@ -11,12 +11,16 @@ This project has the following contributions:
 
 Requirements:
 	1- Pepper Robot (https://www.ald.softbankrobotics.com/en/cool-robots/pepper)
+	
 	2- [Optional] Mbed microcontroller (https://developer.mbed.org/platforms/mbed-LPC1768/)
- 	3- [Optional] FSR Touch sensor (https://www.sparkfun.com/products/9376)
+ 	
+	3- [Optional] FSR Touch sensor (https://www.sparkfun.com/products/9376)
 
 Procedure:
 	1- Bring FSR into action through integration with mbed or any microcontroller (please burn the code 'uC.cpp' on mbed).
+	
 	2- Paste FSR on Pepper's right hand.
+	
 	3- Run mbed_usb.py and then main.py on two seperate terminals
 
 
